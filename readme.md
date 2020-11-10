@@ -4,6 +4,22 @@
 
 - written in Foal Workspace.
 
+## Ad Terminology
+
+<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/3rd-party-embed-js.png" />
+
+## 3rd Party Embed JS
+
+<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/ad-terminology.png" />
+
+## JS Modules
+
+<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/js-modules.png" />
+
+## JS Testing
+
+<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/unit-testing-js.png" />
+
 ## App Tree
 
 ```bash
@@ -55,5 +71,3 @@
 │   └── unit-testing-js.md
 └── readme.md
 ```
-
-

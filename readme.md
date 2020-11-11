@@ -2,15 +2,15 @@
 
 # Ad Ops JS Engineer Topics & Notes
 
-- written in Foal Workspace.
+- written in Foam Workspace.
 
 ## Ad Terminology
 
-<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/3rd-party-embed-js.png" />
+<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/ad-terminology.png" />
 
 ## 3rd Party Embed JS
 
-<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/ad-terminology.png" />
+<img src="https://raw.githubusercontent.com/moisestech/AdOps-JSEngineer/master/public/images/3rd-party-embed-js.png" />
 
 ## JS Modules
 
